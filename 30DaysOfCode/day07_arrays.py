@@ -9,9 +9,8 @@ n = int(raw_input().strip())
 arr = map(int, raw_input().strip().split(' '))
 
 # Solution below
-arr.reverse()
-
-for i in range(n):
+# Using reversed iterator instead of reversing array first
+for i in reversed(range(n)):
     print arr[i],
 
 print
