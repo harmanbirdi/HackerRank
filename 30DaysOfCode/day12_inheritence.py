@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 #
-# Problem: https://www.hackerrank.com/challenges/30-binary-inheritance
+# Problem: https://www.hackerrank.com/challenges/30-inheritance
 # __author__ : Harman Birdi
 #
 
