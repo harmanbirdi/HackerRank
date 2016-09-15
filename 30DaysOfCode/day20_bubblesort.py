@@ -4,12 +4,6 @@
 # Problem: https://www.hackerrank.com/challenges/30-sorting
 # __author__ : Harman Birdi
 #
-#!/usr/bin/env python
-
-#
-# Problem: https://www.hackerrank.com/challenges/30-sorting
-# __author__ : Harman Birdi
-#
 
 
 def bubble_sort(ary):
