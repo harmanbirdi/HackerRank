@@ -30,7 +30,7 @@ class Solution:
 
 # Provided by HackerRank template
 # read the string s
-s= raw_input()
+s = raw_input()
 
 # Create the Solution class object
 obj = Solution()
